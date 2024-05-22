@@ -65,7 +65,7 @@ const handleSubmit = (e) => {
         <div id='Cont'>
           <h1>Salako Lateef</h1>
           <p>I am Web Developer</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, possimus corrupti. Est exercitationem esse odit, quia laudantium incidunt perferendis <br /> provident fugiat beatae dicta alias animi et consectetur doloribus, quibusdam qui.</p>
+          <p>A passionate web developer who loves turning complex problems into elegant, <br /> efficient code.  With a knack for creating seamless user experiences and responsive designs, <br />I build websites that are not only functional but also beautiful. Let’s bring your digital vision to life!</p>
         </div>
 
         <div className='btn'>
@@ -86,7 +86,7 @@ const handleSubmit = (e) => {
               <div className='about'>
                 <h1 className='headertitle'>About Me</h1>
                 <p>
-                  My name is Abdullateef Salako, and I am a dedicated Web Developer with a profound passion for software development. I am committed to continuous learning and the mastery of new technologies, ensuring I remain at the cutting edge of industry advancements. My goal is to deliver innovative solutions by embracing new challenges and expanding my skill set through ongoing professional development.
+                  My name is <strong>Abdullateef Salako</strong>, and I am a dedicated <strong>Web Developer</strong> with a profound passion for software development. I am committed to continuous learning and the mastery of new technologies, ensuring I remain at the cutting edge of industry advancements. My goal is to deliver innovative solutions by embracing new challenges and expanding my skill set through ongoing professional development.
                 </p>
               </div>
 
@@ -202,7 +202,7 @@ const handleSubmit = (e) => {
       <div id='contact'>
         <div className='Mee'>
           <h1 style={{textAlign:"center"}}>Contact Me</h1>
-          <p style={{textAlign:"center"}}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus corporis at ea incidunt porro adipisci aliquid ratione vitae voluptatum saepe. Sit illum sapiente vero, sequi provident inventore dicta quod quas!</p>
+          <p style={{textAlign:"center"}}>You need a front-end developer Let's have a chat i will get the coffee</p>
         </div>
 
         <div className='location'>
